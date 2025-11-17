@@ -1,0 +1,342 @@
+{
+  "issues": {
+    "consistency": [
+      {
+        "type": "Inconsistent terminology",
+        "issue": "Found \"farm to cup\" instead of \"farm-to-cup\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Incomplete section",
+        "issue": "Section \"2.2 Vision\" appears to be empty",
+        "severity": "high"
+      },
+      {
+        "type": "Inconsistent terminology",
+        "issue": "Found \"farm to cup\" instead of \"farm-to-cup\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Incomplete section",
+        "issue": "Section \"2.2 Vision\" appears to be empty",
+        "severity": "high"
+      }
+    ],
+    "formatting": [
+      {
+        "type": "Heading numbering",
+        "issue": "Heading 2.0 does not follow 1.5 logically",
+        "severity": "low"
+      },
+      {
+        "type": "Heading numbering",
+        "issue": "Heading 3.0 does not follow 2.2 logically",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; Statistics Canada, 2024d)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Euromonitor International, 2025a; Euromonitor International, 2025b)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2021; Statistics Canada, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (1.9% and 0.6% respectively\u2014Euromonitor International, 2025e)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; 2024d)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; 2024d)",
+        "severity": "low"
+      },
+      {
+        "type": "Heading numbering",
+        "issue": "Heading 2.0 does not follow 1.5 logically",
+        "severity": "low"
+      },
+      {
+        "type": "Heading numbering",
+        "issue": "Heading 3.0 does not follow 2.2 logically",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; Statistics Canada, 2024d)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Euromonitor International, 2025a; Euromonitor International, 2025b)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2021; Statistics Canada, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (1.9% and 0.6% respectively\u2014Euromonitor International, 2025e)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Caf\u00e9 Quind\u00edo, 2024)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; 2024d)",
+        "severity": "low"
+      },
+      {
+        "type": "Citation format",
+        "issue": "Potentially malformed citation: (Statistics Canada, 2024c; 2024d)",
+        "severity": "low"
+      }
+    ],
+    "writing_quality": [
+      {
+        "type": "Sentence length",
+        "issue": "Found 8 sentences with >40 words",
+        "examples": [
+          {
+            "length": 52,
+            "preview": "Caf\u00e9 Quind\u00edo's dual skill set in production and retail, as well as demonstrated experience exporting..."
+          },
+          {
+            "length": 45,
+            "preview": "This product launch set is organized in a way that will appeal to specific segments..."
+          },
+          {
+            "length": 42,
+            "preview": "4 Strategic Focus The key premise of this marketing plan is that Caf\u00e9 Quind\u00edo will..."
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "Passive voice",
+        "issue": "High use of passive voice (16 instances)",
+        "severity": "low"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Well,\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"So is it\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"let\u00b4s get\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Not only that but\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Well, therefore\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"It is quite common\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Contractions",
+        "issue": "Found 20 contractions in formal document",
+        "examples": [
+          "brand's",
+          "company's",
+          "didn't",
+          "Canada's",
+          "it's"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "Vague language",
+        "issue": "Overuse of vague qualifiers (7 instances)",
+        "severity": "low"
+      },
+      {
+        "type": "Sentence length",
+        "issue": "Found 8 sentences with >40 words",
+        "examples": [
+          {
+            "length": 52,
+            "preview": "Caf\u00e9 Quind\u00edo's dual skill set in production and retail, as well as demonstrated experience exporting..."
+          },
+          {
+            "length": 45,
+            "preview": "This product launch set is organized in a way that will appeal to specific segments..."
+          },
+          {
+            "length": 42,
+            "preview": "4 Strategic Focus The key premise of this marketing plan is that Caf\u00e9 Quind\u00edo will..."
+          }
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "Passive voice",
+        "issue": "High use of passive voice (16 instances)",
+        "severity": "low"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Well,\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"So is it\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"let\u00b4s get\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Not only that but\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"Well, therefore\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Informal language",
+        "issue": "Informal phrase found: \"It is quite common\"",
+        "severity": "medium"
+      },
+      {
+        "type": "Contractions",
+        "issue": "Found 20 contractions in formal document",
+        "examples": [
+          "brand's",
+          "company's",
+          "didn't",
+          "Canada's",
+          "it's"
+        ],
+        "severity": "medium"
+      },
+      {
+        "type": "Vague language",
+        "issue": "Overuse of vague qualifiers (7 instances)",
+        "severity": "low"
+      }
+    ],
+    "structure": [
+      {
+        "type": "Transitions",
+        "issue": "Limited use of transition words between paragraphs",
+        "severity": "low"
+      },
+      {
+        "type": "Transitions",
+        "issue": "Limited use of transition words between paragraphs",
+        "severity": "low"
+      }
+    ],
+    "citations": [
+      {
+        "type": "Citation style inconsistency",
+        "issue": "Mixed citation styles detected",
+        "severity": "medium"
+      },
+      {
+        "type": "Citation style inconsistency",
+        "issue": "Mixed citation styles detected",
+        "severity": "medium"
+      }
+    ]
+  },
+  "statistics": {
+    "most_cited_sources": [
+      {
+        "source": "Euromonitor International, 2025a",
+        "count": 14
+      },
+      {
+        "source": "Euromonitor International, 2025c",
+        "count": 5
+      },
+      {
+        "source": "Statistics Canada, 2024b",
+        "count": 5
+      },
+      {
+        "source": "Euromonitor International, 2025d",
+        "count": 5
+      },
+      {
+        "source": "Caf\u00e9 Quind\u00edo, 2024",
+        "count": 3
+      }
+    ],
+    "word_count": 4460,
+    "sentence_count": 307,
+    "avg_sentence_length": 14.527687296416937,
+    "paragraph_count": 4,
+    "section_count": 17,
+    "citation_count": 50,
+    "readability_score": "Simple"
+  },
+  "severity_summary": {
+    "high": 2,
+    "medium": 20,
+    "low": 28
+  }
+}

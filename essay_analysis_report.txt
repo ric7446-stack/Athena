@@ -1,0 +1,130 @@
+================================================================================
+ESSAY ANALYSIS REPORT
+Café Quindío Marketing Plan - Retail in Canada Analysis
+================================================================================
+
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total Issues Found: 25
+  - High Severity: 1
+  - Medium Severity: 10
+  - Low Severity: 14
+
+DOCUMENT STATISTICS
+--------------------------------------------------------------------------------
+Word Count: 4,460
+Sentence Count: 307
+Average Sentence Length: 14.5 words
+Paragraph Count: 4
+Section Count: 17
+Citation Count: 50
+Readability: Simple
+
+DETAILED ISSUES BY CATEGORY
+================================================================================
+
+CONSISTENCY
+--------------------------------------------------------------------------------
+1. [🟡 MEDIUM] Inconsistent terminology
+   Issue: Found "farm to cup" instead of "farm-to-cup"
+
+2. [🔴 HIGH] Incomplete section
+   Issue: Section "2.2 Vision" appears to be empty
+
+
+FORMATTING
+--------------------------------------------------------------------------------
+1. [🟢 LOW] Heading numbering
+   Issue: Heading 2.0 does not follow 1.5 logically
+
+2. [🟢 LOW] Heading numbering
+   Issue: Heading 3.0 does not follow 2.2 logically
+
+3. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Café Quindío, 2024)
+
+4. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Statistics Canada, 2024c; Statistics Canada, 2024d)
+
+5. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Café Quindío, 2024)
+
+6. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Euromonitor International, 2025a; Euromonitor International, 2025b)
+
+7. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Statistics Canada, 2021; Statistics Canada, 2024)
+
+8. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (1.9% and 0.6% respectively—Euromonitor International, 2025e)
+
+9. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Café Quindío, 2024)
+
+10. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Statistics Canada, 2024c; 2024d)
+
+11. [🟢 LOW] Citation format
+   Issue: Potentially malformed citation: (Statistics Canada, 2024c; 2024d)
+
+
+WRITING QUALITY
+--------------------------------------------------------------------------------
+1. [🟡 MEDIUM] Sentence length
+   Issue: Found 8 sentences with >40 words
+   Examples: [{'length': 52, 'preview': "Café Quindío's dual skill set in production and retail, as well as demonstrated experience exporting..."}, {'length': 45, 'preview': 'This product launch set is organized in a way that will appeal to specific segments...'}, {'length': 42, 'preview': '4 Strategic Focus The key premise of this marketing plan is that Café Quindío will...'}]
+
+2. [🟢 LOW] Passive voice
+   Issue: High use of passive voice (16 instances)
+
+3. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "Well,"
+
+4. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "So is it"
+
+5. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "let´s get"
+
+6. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "Not only that but"
+
+7. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "Well, therefore"
+
+8. [🟡 MEDIUM] Informal language
+   Issue: Informal phrase found: "It is quite common"
+
+9. [🟡 MEDIUM] Contractions
+   Issue: Found 20 contractions in formal document
+   Examples: ["brand's", "company's", "didn't", "Canada's", "it's"]
+
+10. [🟢 LOW] Vague language
+   Issue: Overuse of vague qualifiers (7 instances)
+
+
+STRUCTURE
+--------------------------------------------------------------------------------
+1. [🟢 LOW] Transitions
+   Issue: Limited use of transition words between paragraphs
+
+
+CITATIONS
+--------------------------------------------------------------------------------
+1. [🟡 MEDIUM] Citation style inconsistency
+   Issue: Mixed citation styles detected
+
+
+KEY RECOMMENDATIONS
+================================================================================
+1. CRITICAL: Complete all empty sections (1.5 Expected Results, 2.2 Vision) before finalizing the document.
+2. Standardize terminology throughout the document. Use 'Café Quindío' consistently and maintain uniform currency formatting (recommend: CAD $X.XX format).
+3. Replace informal phrases with formal academic language. Avoid conversational starters like 'Well,' 'So,' and rhetorical questions in formal sections.
+4. Standardize formatting: use consistent list styles (bullets vs. arrows), ensure proper spacing, and verify all heading numbers follow logical sequence.
+5. Add clear transition sentences between major sections to improve flow and guide the reader through your argument.
+6. Consider adding visual elements (tables, charts) to break up dense text, especially in the SWOT and competitive analysis sections.
+7. Ensure all figures referenced (e.g., 'Figure 3 Target Customer Profile') are properly included and numbered sequentially.
+
+================================================================================
+END OF REPORT
+================================================================================
